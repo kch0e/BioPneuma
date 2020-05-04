@@ -1,4 +1,4 @@
-## BioPneuma Project
+# BioPneuma Project
 
 [Spring 2020] Pandemic Response Hackathon - Team Submission
 
