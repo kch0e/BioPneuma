@@ -11,7 +11,7 @@ The reason we decided to go anonymous was due to how quickly rumors and misinfor
 Our goal was simplicity: All you do is select the symptoms that you’re exhibiting, then select the people you were near. The app will automatically inform those people (using a number we provide, for your anonymity). It will also give them, and you, instruction on the next steps you need to take.
 
 ## How we built it
-The app was built in XCode, apple’s app development IDE, and using the Swift language We used apple’s pre built contacts API to get all the contacts data we needed Then we used the Twilio API to send the messages These messages are sent using a number that is is no way traceable back to the initial user Thank you to the Twilio team for the free credits for this project!
+The app was built in XCode, apple’s app development IDE, and using the Swift language. We used apple’s pre built contacts API to get all the contacts data we needed Then we used the Twilio API to send the messages These messages are sent using a number that is is no way traceable back to the initial user Thank you to the Twilio team for the free credits for this project!
 
 ## Challenges we ran into
 We are all high schoolers, so we were relatively inexperienced going into this. There were a lot of problems with the integration of the Twilio API with swift. The SDK did not have what we were looking for, so we had to use REST Apis to get the job done. Another major problem that set us back a few hours was that my laptop started updating, and there was a glitch so it deleted many of my files. Restoring them from a backup added to the stress and tiredness we were all already feeling that night
