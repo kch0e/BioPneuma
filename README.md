@@ -1,6 +1,6 @@
 ## BioPneuma Project
 
-[Spring 2020] Pandemic Response Hackathon - Submission
+[Spring 2020] Pandemic Response Hackathon - Team Submission
 
 ## Inspiration
 The idea for our app sprung from the shared experiences from our team of hackers. One member had a close friend from Seattle who unfortunately contracted the COVID-19 virus. Due to misinformation and confusion regarding the symptoms, she did not know until it was too late. After she recovered, she realized that she had spread it to around 15 people that she knew of. Since she informed them late, they did not get a chance to isolate themselves before they had infected close loved ones.
@@ -22,5 +22,5 @@ We learned a lot about the CDC's handling of this as well as the politics behind
 ## What's next for BioPneuma
 We are hoping that this crisis ends soon. Once it does, we hope to branch out with BioPneuma, and hopefully use it for all kinds of situations where it may be in the best interest of everyone to keep the sender anonymous.
 
-## Team
-Built by Kevin C, Ishan J, Neeraj R, Anish L, Himanshu S, - official submission can be found [here](https://devpost.com/software/biopneuma)
+## Authors
+Built by Kevin C, Ishan J, Neeraj R, Anish L, Himanshu S, - official submission can be found [here.](https://devpost.com/software/biopneuma)
