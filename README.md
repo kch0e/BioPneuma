@@ -23,4 +23,4 @@ We learned a lot about the CDC's handling of this as well as the politics behind
 We are hoping that this crisis ends soon. Once it does, we hope to branch out with BioPneuma, and hopefully use it for all kinds of situations where it may be in the best interest of everyone to keep the sender anonymous.
 
 ## Authors
-Built by Kevin C, Ishan J, Neeraj R, Anish L, Himanshu S, - official submission can be found [here.](https://devpost.com/software/biopneuma)
+Built by Kevin C, Ishan J, Neeraj R, Anish L, Himanshu S - official submission can be found [here.](https://devpost.com/software/biopneuma)
